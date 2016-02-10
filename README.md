@@ -18,3 +18,4 @@ Adding some more text
 >>mystuff  from 2/3/16
 >>endmystuff
 >>>>>>> origin/master
+Hello from the outside... I must of typed this a thousand times...
