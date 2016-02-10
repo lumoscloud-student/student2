@@ -16,8 +16,8 @@ hello berlin
 Hello from Chicago Dec 10 2015
 Adding some more text
 <<<<<<< HEAD
-fcfdgfdgfdgfdgfdg
-sadfasdfasdfsadfsadfsadfsafsadfasdfsadfasdfasdfasdfsadfasdfasf
+set pardeep singh
+hello hi how are you doing
 set json
 =======
 >>mystuff  from 2/3/16
