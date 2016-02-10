@@ -10,7 +10,7 @@ This is Mazen
 This change was made on 14:01 Nov 2, 2015 in Amsterdam. 
 this can be painfulh
 BorkBork
-<<<<<<< HEAD
+<<<<<<< Heasd
 hello berlin
 =======
 Hello from Chicago Dec 10 2015
@@ -29,4 +29,6 @@ Hello from the outside... I must of typed this a thousand times...
 <<<<<<< HEAD
 kidda
 ================
+
+<<<<<<<<<<addredfdsfss></addsdfdsfdsfress>
 >>>>>>> origin/master
