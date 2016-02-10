@@ -18,6 +18,7 @@ Adding some more text
 <<<<<<< HEAD
 set pardeep singh
 hello hi how are you doing
+===========
 set json
 =======
 >>mystuff  from 2/3/16
@@ -25,4 +26,7 @@ set json
 >>>>>>> origin/master
 Hello from the outside... I must of typed this a thousand times...
 **** 2016 Feb South Africa **** All Hail Huawei
+<<<<<<< HEAD
+kidda
+================
 >>>>>>> origin/master
