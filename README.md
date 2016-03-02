@@ -29,6 +29,9 @@ Hello from the outside... I must of typed this a thousand times...
 <<<<<<< HEAD
 kidda
 ================
+hello world
 
 <<<<<<<<<<addredfdsfss></addsdfdsfdsfress>
 >>>>>>> origin/master
+
+ACI GURU was here, ACI =  ZTP and PNP  :) 
