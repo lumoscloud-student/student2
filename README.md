@@ -35,3 +35,7 @@ hello world
 >>>>>>> origin/master
 
 ACI GURU was here, ACI =  ZTP and PNP  :) 
+
+
+---------------------------
+Google is your friend...
